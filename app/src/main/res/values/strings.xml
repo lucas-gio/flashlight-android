@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">Flashlight</string>
-    <string name="app_description">Linterna</string>
+    <string name="app_name">Simple flashlight</string>
 </resources>

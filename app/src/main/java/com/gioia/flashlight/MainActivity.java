@@ -50,16 +50,18 @@ public class MainActivity extends AppCompatActivity {
         camera = Camera.open();
         parameters = camera.getParameters();
         button = findViewById(R.id.onOffButton);
+        button.setImageResource(R.drawable.on_image);
+
         button.setOnClickListener((View view)-> {
             if(isOff){
-                button.setImageResource(R.drawable.on_image);
+                button.setImageResource(R.drawable.off_image);
                 parameters.setFlashMode(Camera.Parameters.FLASH_MODE_TORCH);
                 camera.setParameters(parameters);
                 camera.startPreview();
                 isOff = false;
             }
             else{
-                button.setImageResource(R.drawable.off_image);
+                button.setImageResource(R.drawable.on_image);
                 parameters.setFlashMode(Camera.Parameters.FLASH_MODE_OFF);
                 camera.setParameters(parameters);
                 camera.stopPreview();
