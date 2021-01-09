@@ -5,4 +5,4 @@ If the phone have not any camera flash, then show an dialog with error cause.
 
 * Main activity is [HERE](../main/src/main/java/com/gioia/flashlight/MainActivity.java)
 
-Now is only translated in EN, ES, and PT.
+Now is only translated in EN, ES, PT, ZH, and AR.
