@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Simple flashlight</string>
-    <string name="on.off.button.description">Main button</string>
+    <string name="mainButtonDescription">Main button</string>
+    <string name="errorFlashNotFound">\"This phone hasn\'t any camera flash. Sorry, the flash is required for this app.\"</string>
+    <string name="dialogTitleFlashNotFound">Flash not found</string>
+    <string name="ok">Close</string>
 </resources>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Lanterna simples</string>
-    <string name="on.off.button.description">Botão principal</string>
+    <string name="mainButtonDescription">Botão principal</string>
+    <string name="errorFlashNotFound">Este telefone não possui flash para câmera, é necessário para esta aplicação.</string>
+    <string name="dialogTitleFlashNotFound">Flash não encontrado</string>
+    <string name="ok">Fechar</string>
 </resources>

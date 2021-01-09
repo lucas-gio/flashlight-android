@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Linterna simple</string>
-    <string name="on.off.button.description">Botón principal</string>
+    <string name="mainButtonDescription">Botón principal</string>
+    <string name="errorFlashNotFound">Este teléfono no tiene flash de cámara, es requerido para esta aplicación.</string>
+    <string name="dialogTitleFlashNotFound">Flash no encontrado</string>
+    <string name="ok">Cerrar</string>
 </resources>
