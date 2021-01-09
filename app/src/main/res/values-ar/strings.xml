@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مصباح يدوي بسيط</string>
+    <string name="mainButtonDescription">الزر الرئيسي</string>
+    <string name="errorFlashNotFound">لا يحتوي هذا الهاتف على أي فلاش كاميرا. عذرا ، الفلاش مطلوب لهذا التطبيق.</string>
+    <string name="dialogTitleFlashNotFound">الفلاش غير موجود</string>
+    <string name="ok">قريب</string>
+</resources>

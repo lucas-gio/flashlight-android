@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">简单手电筒</string>
+    <string name="mainButtonDescription">主按键</string>
+    <string name="errorFlashNotFound">这部手机没有任何闪光灯。抱歉，此应用需要闪光灯。</string>
+    <string name="dialogTitleFlashNotFound">找不到闪光灯</string>
+    <string name="ok">关</string>
+</resources>
